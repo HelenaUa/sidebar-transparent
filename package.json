@@ -1,0 +1,7 @@
+{
+    "name": "sidebar-transparent",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "start index.html"
+    }
+  }
